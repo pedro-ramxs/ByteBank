@@ -1,0 +1,22 @@
+ByteBank.sln
+
+# Arquivos IDE
+packages/
+.vs/
+
+ByteBank.SistemaAgencia/bin/
+ByteBank.SistemaAgencia/obj/
+ByteBank.SistemaAgencia/Properties/
+ByteBank.SistemaAgencia/App.config
+ByteBank.SistemaAgencia/Packages.config
+ByteBank.SistemaAgencia/ByteBank.SistemaAgencia.csproj
+
+ByteBank.Modelos/bin/
+ByteBank.Modelos/obj/
+ByteBank.Modelos/Properties/
+ByteBank.Modelos/ByteBank.Modelos.csproj
+
+# Desnecessários / Não utilizados
+ByteBank.SistemaAgencia/LidandoFileStreamDiretamente.cs
+ByteBank.SistemaAgencia/Lista.cs
+ByteBank.SistemaAgencia/ListaContaCorrente.cs
